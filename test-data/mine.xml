@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-06-22T18:28:23Z</date>
+	<key>Application Version</key><string>12.7.5.9</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C5C3C535FEDB9861</string>
+	<key>Tracks</key>
+	<dict>
+		<key>89</key>
+		<dict>
+			<key>Track ID</key><integer>89</integer>
+			<key>Name</key><string>够钟 (Live)</string>
+			<key>Artist</key><string>周柏豪</string>
+			<key>Album Artist</key><string>周柏豪</string>
+			<key>Album</key><string>Imperfect Live 2013 Collection</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9137968</integer>
+			<key>Total Time</key><integer>226533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Date Modified</key><date>2018-02-26T18:18:52Z</date>
+			<key>Date Added</key><date>2018-02-28T12:10:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3608552110</integer>
+			<key>Play Date UTC</key><date>2018-05-07T07:35:10Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-04-01T06:46:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4361AB80C2C62A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/Music/%E5%91%A8%E6%9F%8F%E8%B1%AA/Imperfect%20Live%202013%20Collection/1-06%20%E5%A4%9F%E9%92%9F%20(Live).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>91</key>
+		<dict>
+			<key>Track ID</key><integer>91</integer>
+			<key>Name</key><string>ニャースのうた</string>
+			<key>Artist</key><string>犬山イヌコ</string>
+			<key>Album Artist</key><string>日本ACG</string>
+			<key>Album</key><string>ロケット団よ永遠に</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10162188</integer>
+			<key>Total Time</key><integer>251010</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2018-02-28T12:10:01Z</date>
+			<key>Date Added</key><date>2018-02-28T12:10:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3608551884</integer>
+			<key>Play Date UTC</key><date>2018-05-07T07:31:24Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2018-05-02T03:56:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>839E9C37F42F12C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/Music/%E6%97%A5%E6%9C%ACACG/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E5%9B%A3%E3%82%88%E6%B0%B8%E9%81%A0%E3%81%AB/1-03%20%E3%83%8B%E3%83%A3%E3%83%BC%E3%82%B9%E3%81%AE%E3%81%86%E3%81%9F.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>93</key>
+		<dict>
+			<key>Track ID</key><integer>93</integer>
+			<key>Name</key><string>说爱你（Guitar Ver.）</string>
+			<key>Artist</key><string>沈以诚</string>
+			<key>Album Artist</key><string>沈以诚</string>
+			<key>Album</key><string>Cover Version II</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7880472</integer>
+			<key>Total Time</key><integer>195866</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2018-03-13T12:06:11Z</date>
+			<key>Date Added</key><date>2018-03-13T12:08:34Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3609452786</integer>
+			<key>Play Date UTC</key><date>2018-05-17T17:46:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-23T20:42:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B50280449840103</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/Music/%E6%B2%88%E4%BB%A5%E8%AF%9A/Cover%20Version%20II/1-01%20%E8%AF%B4%E7%88%B1%E4%BD%A0%EF%BC%88Guitar%20Ver.%EF%BC%89.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>95</key>
+		<dict>
+			<key>Track ID</key><integer>95</integer>
+			<key>Name</key><string>On a Roll</string>
+			<key>Artist</key><string>Christopher Lewis</string>
+			<key>Album</key><string>Uplifting Acoustic Indie Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2424722</integer>
+			<key>Total Time</key><integer>98977</integer>
+			<key>Date Modified</key><date>2018-03-16T10:54:28Z</date>
+			<key>Date Added</key><date>2018-03-16T10:52:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3608551437</integer>
+			<key>Play Date UTC</key><date>2018-05-07T07:23:57Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-04-24T22:00:01Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EDD6F3452FB9A941</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/Music/Christopher%20Lewis/Uplifting%20Acoustic%20Indie%20Folk/On%20a%20Roll.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>97</key>
+		<dict>
+			<key>Track ID</key><integer>97</integer>
+			<key>Name</key><string>说爱你</string>
+			<key>Artist</key><string>NancyS Acoustic Cover</string>
+			<key>Album</key><string>南音吉他小屋</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11055571</integer>
+			<key>Total Time</key><integer>219977</integer>
+			<key>Date Modified</key><date>2018-03-16T10:58:42Z</date>
+			<key>Date Added</key><date>2018-03-16T10:55:33Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3608551338</integer>
+			<key>Play Date UTC</key><date>2018-05-07T07:22:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-05-08T10:36:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AFD7F926384FC690</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/Music/NancyS%20Acoustic%20Cover/%E5%8D%97%E9%9F%B3%E5%90%89%E4%BB%96%E5%B0%8F%E5%B1%8B/%E8%AF%B4%E7%88%B1%E4%BD%A0.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>99</key>
+		<dict>
+			<key>Track ID</key><integer>99</integer>
+			<key>Name</key><string>说爱你</string>
+			<key>Artist</key><string>Sasa Cover</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2890273</integer>
+			<key>Total Time</key><integer>119980</integer>
+			<key>Date Modified</key><date>2018-03-16T11:05:25Z</date>
+			<key>Date Added</key><date>2018-03-16T11:04:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3608107346</integer>
+			<key>Play Date UTC</key><date>2018-05-02T04:02:26Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-05-08T10:36:24Z</date>
+			<key>Persistent ID</key><string>59244D6582E37365</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/Music/Sasa%20Cover/Unknown%20Album/%E8%AF%B4%E7%88%B1%E4%BD%A0.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>101</key>
+		<dict>
+			<key>Track ID</key><integer>101</integer>
+			<key>Name</key><string>Liam Aidan</string>
+			<key>Artist</key><string>Gold Skies</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8473458</integer>
+			<key>Total Time</key><integer>352626</integer>
+			<key>Date Modified</key><date>2018-03-16T11:32:07Z</date>
+			<key>Date Added</key><date>2018-03-16T11:31:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3608551094</integer>
+			<key>Play Date UTC</key><date>2018-05-07T07:18:14Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2018-04-24T00:22:57Z</date>
+			<key>Persistent ID</key><string>3059585AC6B61D8E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/Music/Gold%20Skies/Unknown%20Album/Liam%20Aidan.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>103</key>
+		<dict>
+			<key>Track ID</key><integer>103</integer>
+			<key>Name</key><string>追光者</string>
+			<key>Artist</key><string>蔡佩軒 Ariel Tsai</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5183303</integer>
+			<key>Total Time</key><integer>215536</integer>
+			<key>Date Modified</key><date>2018-03-17T14:19:56Z</date>
+			<key>Date Added</key><date>2018-03-17T14:18:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3608550742</integer>
+			<key>Play Date UTC</key><date>2018-05-07T07:12:22Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-05-10T15:30:02Z</date>
+			<key>Persistent ID</key><string>C832A8F44DDF95E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/lightwingng/Music/iTunes/iTunes%20Media/Music/%E8%94%A1%E4%BD%A9%E8%BB%92%20Ariel%20Tsai/Unknown%20Album/%E8%BF%BD%E5%85%89%E8%80%85.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>107</integer>
+			<key>Playlist Persistent ID</key><string>7AE5B5A008D382F6</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>89</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>118</integer>
+			<key>Playlist Persistent ID</key><string>4A1DB127E8296429</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>89</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>129</integer>
+			<key>Playlist Persistent ID</key><string>7948C7220BF64A23</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>89</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>91</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>93</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>95</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>97</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>99</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>101</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>103</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>149</integer>
+			<key>Playlist Persistent ID</key><string>C2DEEB6A6B86F46B</string>
+			<key>Distinguished Kind</key><integer>66</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>152</integer>
+			<key>Playlist Persistent ID</key><string>F357BC899B474B33</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Downloaded</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>158</integer>
+			<key>Playlist Persistent ID</key><string>90D2FE946E22D4BE</string>
+			<key>Distinguished Kind</key><integer>67</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>161</integer>
+			<key>Playlist Persistent ID</key><string>E47F6F5B4F244FB1</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>164</integer>
+			<key>Playlist Persistent ID</key><string>F04E9CAED6F5BD97</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>171</integer>
+			<key>Playlist Persistent ID</key><string>6C6BDCE76581F0C5</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>174</integer>
+			<key>Playlist Persistent ID</key><string>1E029D7145BDC76C</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>
